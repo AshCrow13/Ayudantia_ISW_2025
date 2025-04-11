@@ -1,0 +1,1 @@
+//Crea una función que reciba como parámetro un array de números y retorne la suma de todos los números del array.
